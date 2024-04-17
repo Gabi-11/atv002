@@ -73,12 +73,38 @@ Exemplo:
 > Isso é uma citação em bloco.
 
 ## Linhas Orizontais
+São usadas para criar uma linha horizontal para separar seções do documento.
+
+Exemplo:
+
+---
 
 ## Código
+Permitem inserir blocos de código ou destacar código dentro do texto.
+
+Exemplo:
+
+use crases (\`) para inserir código `inline`.
+
+```
+idade = 18
+print(f"A idade é {idade}")
+```
 
 ## Tabelas
+Criam tabelas organizadas em colunas e linhas.
+
+Exemplo:
+
+|cabeçalho 1| cabeçalho 2|
+|-----------|------------|
+|Dado 1     |Dado 2      |
+|Dado 3     |Dado 4      |
+
+
 
 ## Listas de Tarefas
+
 
 ## Referências
 
