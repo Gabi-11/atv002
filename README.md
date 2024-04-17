@@ -104,10 +104,51 @@ Exemplo:
 
 
 ## Listas de Tarefas
+Criam listas de tarefas que podem ser marcadas como concluídas ou pendentes.
 
+Exemplos:
+
+- [x] Tarefa Concluída
+- [ ] Tarefa Pendente
 
 ## Referências
+Permitem adicionar notas de rodapé para fornecer maisinformações sobre conteúdo do documento.
+
+Exemplo:
+
+Aqui é um exemplo demarcação em rodapé [^1].
+
+A aula é com o Ricardo[^2].
+
+ [^1]: Rodapé: conteúdo inferior do documento.
+ [^2]: Ricardo: Professor da turma de Git.
+
 
 ## Notas de Rodapé
+São usadas para adicionar informações adicionais ou explicativas ao final de um documento.
+
+Exemplo:
+
+Aqui é um exemplo demarcação em rodapé [^1].
+
+A aula é com o Ricardo[^2].
+
+ [^1]: Rodapé: conteúdo inferior do documento.
+ [^2]: Ricardo: Professor da turma de Git.
 
 ## Alertas
+São usados para destacar informações importantes, como notas, aviso ou mensagem.
+
+Exemplo: 
+
+> **note**
+> Esta é a nota
+
+> [!NOTE]
+> Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+>  [!IMPORTANT]
+> Informações cruciais necessárias para osucesso dos usuários.
+
+> [!WARNING]
+> Conteúdo que exige atenção imediata do usuário devido a riscos em potencias.
