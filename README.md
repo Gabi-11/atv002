@@ -26,19 +26,51 @@ Lista não ordenada:
 * Item 2
 * Item 3
 
-  Lista ordenada
+Lista ordenada:
 
+1. Primeiro item
+2. Primeiro item
+3. Primeiro item 
 
 
 ## Links
+Criam links para outras páginas na web
 
+Exemplo:
+
+[Texto do link](URL) para criar link.
 
 
 ## Imagens
+Inserem imagens em um documento Markdown.
+
+Exemplo:
+
+![Imagem](URL_da_imagem)
+
 
 ## Ênfase
+Permitem enfatiar texto, como itálico, negrito, tachado, subscrito e sobrescrito.
+
+Exemplo:
+
+*texto em itálico* ou _texto em itálico_ para itálic
+
+**texto em negrito** ou __texto em negrito_) para negrito
+
+~~Texto em tachado~~
+
+Aqui é um texto <sub> subscrito </sub>
+
+Aqui um texto <sup> sobrescrito </sup>
+
 
 ## Citações em Bloco
+São usadas para destacar uma citação ou bloco de texto.
+
+Exemplo:
+
+> Isso é uma citação em bloco.
 
 ## Linhas Orizontais
 
